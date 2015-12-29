@@ -1,0 +1,5 @@
+G:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\bin\Debug\SampleDB.dacpac
+G:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\bin\Debug\SampleDB.dll
+G:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\bin\Debug\SampleDB.pdb
+G:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\obj\Debug\SampleDB.dll
+G:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\obj\Debug\SampleDB.pdb

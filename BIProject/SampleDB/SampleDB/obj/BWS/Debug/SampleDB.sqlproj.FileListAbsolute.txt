@@ -1,0 +1,6 @@
+g:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\bin\Output\SampleDB.dacpac
+g:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\bin\Output\SampleDB.dll
+g:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\bin\Output\SampleDB.pdb
+g:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\obj\BWS\Debug\SampleDB.sqlprojResolveAssemblyReference.cache
+g:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\obj\BWS\Debug\SampleDB.dll
+g:\Workspace\MSBI_Automation\BIProject\SampleDB\SampleDB\obj\BWS\Debug\SampleDB.pdb

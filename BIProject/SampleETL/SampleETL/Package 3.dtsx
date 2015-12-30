@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <DTS:Executable
   DTS:refId="Package" xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:ExecutableType="SSIS.Package.3"
@@ -7,11 +7,11 @@
   DTS:CreationDate="12/29/2015 3:52:42 PM"
   DTS:PackageType="5"
   DTS:VersionBuild="2"
-  DTS:VersionGUID="{D73A3F8C-F412-4FD8-825E-9A0C6F8E673F}"
+  DTS:VersionGUID="{80924871-C1EA-4759-9E3F-8548A3A81833}"
   DTS:LastModifiedProductVersion="11.0.2100.60"
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
-  DTS:DTSID="{5C93A36B-8E53-4454-AF51-C084A61D9341}"
+  DTS:DTSID="{105A56C9-2908-4033-97D4-675113AB842D}"
   DTS:CreationName="SSIS.Package.3">
   <DTS:Property
     DTS:Name="PackageFormatVersion">6</DTS:Property>
@@ -24,7 +24,7 @@
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2012; © 2007 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task"
-      DTS:DTSID="{92D24963-321C-4EA5-BEA6-0F9816C940BF}"
+      DTS:DTSID="{F939B53D-AD32-4766-B5D1-CEC516817A34}"
       DTS:Description="Execute SQL Task"
       DTS:CreationName="Microsoft.SqlServer.Dts.Tasks.ExecuteSQLTask.ExecuteSQLTask, Microsoft.SqlServer.SQLTask, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
       <DTS:Variables />
